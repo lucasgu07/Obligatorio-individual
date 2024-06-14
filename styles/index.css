@@ -1,0 +1,44 @@
+header{
+    box-shadow: 0 3px 5px  rgba(0, 0, 0, 0.104);
+    padding: 3px 0;
+    background-color: black;
+}
+header h1{
+    color: white;
+}
+
+
+header  nav div{
+    background-color: #333;
+    color: white;
+    display: flex;
+    align-items: center;
+    
+   
+}
+
+header nav { 
+    display: flex;
+    justify-content: space-between;
+    margin: 0 60px;
+}
+
+#logo {
+    height: 80px;
+}
+
+footer{
+    background-color: black;
+    margin-top: auto;
+    text-align: center;
+    box-shadow: 0 -3px 5px rgba(0, 0, 0, 0.104);
+}
+
+footer h2{
+    color: white;
+}
+
+a{
+    text-decoration: underline;
+    color: white;
+}
